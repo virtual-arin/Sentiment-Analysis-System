@@ -1,0 +1,10 @@
+numpy 
+pandas
+matplotlib
+seaborn
+neattext
+emoji
+nltk
+scikit-learn
+ipykernel
+streamlit
