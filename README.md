@@ -45,7 +45,7 @@ This project uses Natural Language Processing (NLP) techniques along with a trai
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/virtualarin/Sentiment-Analyzer.git
+git clone https://github.com/virtual-arin/Sentiment-Analysis-Project.git
 cd Sentiment-Analyzer
 ```
 
