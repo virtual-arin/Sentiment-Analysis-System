@@ -2,8 +2,8 @@ import streamlit as st
 import joblib
 
 # Load model and vectorizer
-model = joblib.load('model.pkl')
-vectorizer = joblib.load('vectorizer.pkl')
+model = joblib.load('models/model.pkl')
+vectorizer = joblib.load('models/vectorizer.pkl')
 
 # Manual label mapping (adjust if needed)
 label_map = {
