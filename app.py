@@ -15,7 +15,7 @@ label_map = {
     5: "Joy"
 }
 
-st.title("Sentiment Analyzer")
+st.title("Sentiment Analysis System 🎭")
 st.write("This app predicts the sentiment of the provided text.")
 
 user_input = st.text_area("Enter text here:")
