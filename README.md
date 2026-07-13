@@ -1,4 +1,4 @@
-# Sentiment Analyzer App 🎭
+# Sentiment Analysis System 🎭
 
 A Machine Learning based Sentiment Analysis web application that predicts human emotions from text input.  
 This project uses Natural Language Processing (NLP) techniques along with a trained machine learning model to classify emotions such as Joy, Sadness, Anger, Fear, Love, and Surprise.
